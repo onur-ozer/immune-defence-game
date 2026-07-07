@@ -1,0 +1,13 @@
+# Older iteration files — not part of the public release
+game_test_7.html
+game_test_8.html
+
+# Internal planning/reference doc — not the game itself
+HLA_Game_Educational_Content_Plan.docx
+*.docx
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
